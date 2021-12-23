@@ -1,6 +1,6 @@
 # Ansible Execution Environment: Netbox Inventory
 
-[![N|Solid](https://netbox.readthedocs.io/en/latest/netbox_logo.svg)](https://netbox.readthedocs.io/)
+[![N|Solid](https://netbox.readthedocs.io/en/stable/netbox_logo.svg)](https://netbox.readthedocs.io/)
 
 ## Overview
 
